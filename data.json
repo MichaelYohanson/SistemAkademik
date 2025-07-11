@@ -1,0 +1,26 @@
+[
+  {
+    "nidn": "67123456",
+    "nama": "Budhi",
+    "email": "67123456@uksw.ac.id",
+    "role": "kaprodi",
+    "programStudi": "Teknik Informatika",
+    "fakultas": "Teknologi Informasi"
+  },
+  {
+    "nidn": "6712345",
+    "nama": "Alz Danny Wowor",
+    "email": "6712345@uksw.ac.id",
+    "role": "dosen",
+    "programStudi": "Teknik Informatika",
+    "fakultas": "Teknologi Informasi"
+  },
+  {
+    "nim": "672020003",
+    "nama": "Michael Yohanson",
+    "email": "672020003@student.ac.edu",
+    "role": "mahasiswa",
+    "programStudi": "Teknik Informatika",
+    "fakultas": "Teknologi Informasi"
+  }
+]
