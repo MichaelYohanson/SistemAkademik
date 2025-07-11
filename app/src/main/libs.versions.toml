@@ -1,0 +1,11 @@
+toml
+[versions]
+googleGmsGoogleServices = "4.4.1" # Or your desired version
+
+[libraries]
+# ... other libraries
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "..." }
+kotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "..." }
+googleGmsGoogleServices = { id = "com.google.gms.google-services", version.ref = "googleGmsGoogleServices" }
